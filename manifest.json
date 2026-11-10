@@ -1,0 +1,125 @@
+{
+  "firmware": {
+    "version": 1,
+    "url": "https://horlogef1.github.io/Horloge-billes/firmware/horloge_billes.bin"
+  },
+  "api_f1": "https://api.jolpi.ca/ergast/f1/current/",
+  "api_pilotes": "https://api.openf1.org/v1/drivers?session_key=latest",
+  "cartes": [
+    {
+      "code": "ALB",
+      "v": 1,
+      "url": "https://horlogef1.github.io/Horloge-billes/cartes/ALB.png"
+    },
+    {
+      "code": "ALO",
+      "v": 1,
+      "url": "https://horlogef1.github.io/Horloge-billes/cartes/ALO.png"
+    },
+    {
+      "code": "ANT",
+      "v": 1,
+      "url": "https://horlogef1.github.io/Horloge-billes/cartes/ANT.png"
+    },
+    {
+      "code": "BEA",
+      "v": 1,
+      "url": "https://horlogef1.github.io/Horloge-billes/cartes/BEA.png"
+    },
+    {
+      "code": "BOR",
+      "v": 1,
+      "url": "https://horlogef1.github.io/Horloge-billes/cartes/BOR.png"
+    },
+    {
+      "code": "BOT",
+      "v": 1,
+      "url": "https://horlogef1.github.io/Horloge-billes/cartes/BOT.png"
+    },
+    {
+      "code": "CAM",
+      "v": 1,
+      "url": "https://horlogef1.github.io/Horloge-billes/cartes/CAM.png"
+    },
+    {
+      "code": "COL",
+      "v": 1,
+      "url": "https://horlogef1.github.io/Horloge-billes/cartes/COL.png"
+    },
+    {
+      "code": "GAS",
+      "v": 1,
+      "url": "https://horlogef1.github.io/Horloge-billes/cartes/GAS.png"
+    },
+    {
+      "code": "HAD",
+      "v": 1,
+      "url": "https://horlogef1.github.io/Horloge-billes/cartes/HAD.png"
+    },
+    {
+      "code": "HAM",
+      "v": 1,
+      "url": "https://horlogef1.github.io/Horloge-billes/cartes/HAM.png"
+    },
+    {
+      "code": "HUL",
+      "v": 1,
+      "url": "https://horlogef1.github.io/Horloge-billes/cartes/HUL.png"
+    },
+    {
+      "code": "LAW",
+      "v": 1,
+      "url": "https://horlogef1.github.io/Horloge-billes/cartes/LAW.png"
+    },
+    {
+      "code": "LEC",
+      "v": 1,
+      "url": "https://horlogef1.github.io/Horloge-billes/cartes/LEC.png"
+    },
+    {
+      "code": "LIN",
+      "v": 1,
+      "url": "https://horlogef1.github.io/Horloge-billes/cartes/LIN.png"
+    },
+    {
+      "code": "NOR",
+      "v": 1,
+      "url": "https://horlogef1.github.io/Horloge-billes/cartes/NOR.png"
+    },
+    {
+      "code": "OCO",
+      "v": 1,
+      "url": "https://horlogef1.github.io/Horloge-billes/cartes/OCO.png"
+    },
+    {
+      "code": "PER",
+      "v": 1,
+      "url": "https://horlogef1.github.io/Horloge-billes/cartes/PER.png"
+    },
+    {
+      "code": "PIA",
+      "v": 1,
+      "url": "https://horlogef1.github.io/Horloge-billes/cartes/PIA.png"
+    },
+    {
+      "code": "RUS",
+      "v": 1,
+      "url": "https://horlogef1.github.io/Horloge-billes/cartes/RUS.png"
+    },
+    {
+      "code": "SAI",
+      "v": 1,
+      "url": "https://horlogef1.github.io/Horloge-billes/cartes/SAI.png"
+    },
+    {
+      "code": "STR",
+      "v": 1,
+      "url": "https://horlogef1.github.io/Horloge-billes/cartes/STR.png"
+    },
+    {
+      "code": "VER",
+      "v": 1,
+      "url": "https://horlogef1.github.io/Horloge-billes/cartes/VER.png"
+    }
+  ]
+}
